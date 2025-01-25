@@ -36,3 +36,8 @@ console.log(accountBalance);
 let customerName = "Lebron James"; //Customer Name
 let greeting = "Welcome in " + customerName + ", how may I help you? "; // Employee Greeting
 console.log(greeting);
+
+//Task 5
+let isLoggedin = true; //Account login
+let isAdmin = true; //Administrative Power
+console.log(isLoggedin && isAdmin);
