@@ -15,3 +15,19 @@ var isAvailable = true; //Product Availability
 console.log(typeof productName);
 console.log(typeof productPrice);
 console.log(typeof isAvailable);
+
+//Task 3 
+let accountBalance = 1000; //Starting Balance
+console.log(accountBalance);
+
+accountBalance += 500; //Bought Two Airpods
+console.log(accountBalance);
+
+accountBalance -= 250; //Returned One set of Airpods
+console.log(accountBalance);
+
+accountBalance *= 5; //Bulk Order of Airpods
+console.log(accountBalance);
+
+accountBalance /= 2; // Emergency Fund Deposit 
+console.log(accountBalance);
